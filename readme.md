@@ -59,8 +59,10 @@
 **Задача 29.** Система комментариев для сайта.
 
 
-# Взято из "JavaScript Решает", автор и составитель Лущенко Александр
+Взято из "JavaScript Решает", автор и составитель Лущенко Александр
 
-[Youtube](https://goo.gl/hpmmzj)
-[javascript.kiev.ua](http://javascript.kiev.ua)
-[Канал](https://t.me/jsrules)
+-[Youtube](https://goo.gl/hpmmzj)
+
+-[javascript.kiev.ua](http://javascript.kiev.ua)
+
+-[Канал](https://t.me/jsrules)
